@@ -4,3 +4,10 @@ hbase-shaded-protobuf/src/main/java/
 .project
 .settings
 .classpath
+
+# Ignore IntelliJ files.
+**/.idea/**/*
+**/*.iml
+**/*.ipr
+**/*.iws
+**/out/**/*
